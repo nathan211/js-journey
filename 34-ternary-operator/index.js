@@ -4,4 +4,4 @@ function tossACoin(){
 	console.log(result);
 }
 
-tossACoin();
+tossACoin();  
